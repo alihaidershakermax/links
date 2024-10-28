@@ -10,7 +10,7 @@ const webLinks = [
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/dxet1',
+        url: 'https://www.instagram.com/dxet1',
         type: 'social',
         icon: '/insta.svg',
         on: true
