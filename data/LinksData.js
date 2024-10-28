@@ -3,14 +3,14 @@ const webLinks = [
     // All social profile
     {
         title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        url: 'https://twitter.com/alihaiderdex',
         type: 'social',
         icon: '/twitter.svg',
         on: true
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://instagram.com/dxet1',
         type: 'social',
         icon: '/insta.svg',
         on: true
@@ -23,25 +23,25 @@ const webLinks = [
         on: false
     },
     {
-        title: 'Medium',
-        url: 'https://medium.com/@realvjy',
+        title: 'spotify',
+        url: 'https://medium.com/@petnkcqwh4z8hiool9qtyrvo6',
         type: 'social',
-        icon: '/medium.svg',
-        on: false
+        icon: '/Spotify-Logo.wine.svg',
+        on: true
     },
     {
         title: 'Github',
-        url: 'https://github.com/realvjy',
+        url: 'https://github.com/alihaidershakermax',
         type: 'social',
         icon: '/github.svg',
         on: true
     },
     {
         title: 'Youtube',
-        url: 'https://youtube.com/realvjy',
+        url: 'https://youtube.com/@alihsha',
         type: 'social',
         icon: '/youtube.svg',
-        on: false
+        on: true
     },
     {
         title: 'Behance',
@@ -62,7 +62,7 @@ const webLinks = [
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: true
+        on: false
     },
     {
         title: 'Hive Social',
@@ -105,28 +105,28 @@ const webLinks = [
         url: 'https://github.com/realvjy/nxt-lnk/generate',
         type: 'install',
         icon: '/use.png',
-        on: true
+        on: false
     },
     {
         title: 'Deploy on Vercel',
         url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
         type: 'install',
         icon: '/vercel.svg',
-        on: true
+        on: false
     },
     {
         title: 'Documentation',
         url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
         type: 'install',
         icon: '/doc.png',
-        on: true
+        on: false
     },
     {
         title: 'Github',
         url: 'https://github.com/realvjy/nxt-lnk',
         type: 'install',
         icon: '/github-fill.svg',
-        on: true
+        on: false
     },
 ];
 
