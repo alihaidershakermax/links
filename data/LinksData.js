@@ -16,11 +16,11 @@ const webLinks = [
         on: true
     },
     {
-        title: 'Dribbble',
-        url: 'https://dribbble.com/realvjy',
+        title: 'telegram',
+        url: 'https://web.telegram.org/k/#@dextermorgenk',
         type: 'social',
-        icon: '/dribbble.svg',
-        on: false
+        icon: '/telegram-icon',
+        on: true
     },
     {
         title: 'Medium',
