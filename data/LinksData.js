@@ -44,13 +44,6 @@ const webLinks = [
         on: false
     },
     {
-        title: 'Figma',
-        url: 'https://figma.com/@realvjy',
-        type: 'social',
-        icon: '/figma.svg',
-        on: true
-    },
-    {
         title: 'Behance',
         url: 'https://behance.net/realvjy',
         type: 'social',
@@ -135,28 +128,11 @@ const webLinks = [
         icon: '/github-fill.svg',
         on: true
     },
-
     {
         title: 'Buy Me a Coffee',
         url: 'https://www.buymeacoffee.com/realvjy',
         type: 'other',
         icon: '/bmc.png',
-        on: true
-    },
-
-    {
-        title: 'link demo',
-        url: 'https://vjy.me/lnk',
-        type: 'other',
-        icon: '/vjy.png',
-        on: true
-    },
-
-    {
-        title: 'maker website',
-        url: 'https://vjy.me',
-        type: 'other',
-        icon: '/vjy.png',
         on: true
     },
 ];
