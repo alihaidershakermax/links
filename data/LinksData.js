@@ -10,7 +10,7 @@ const webLinks = [
     },
     {
         title: 'Instagram',
-        url: 'https://www.instagram.com/dramnh_7y/',
+        url: 'https://instagram.com/dxet1',
         type: 'social',
         icon: '/insta.svg',
         on: true
@@ -127,9 +127,16 @@ const webLinks = [
         type: 'install',
         icon: '/github-fill.svg',
         on: false
+ 
     },
+   {
+    title: 'maker website',
+    url: 'https://vjy.me',
+    type: 'other',
+    icon: '/vjy.png',
+    on: true
+  },
 ];
-
 export default webLinks;
 
 
