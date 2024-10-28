@@ -128,13 +128,6 @@ const webLinks = [
         icon: '/github-fill.svg',
         on: true
     },
-    {
-        title: 'Buy Me a Coffee',
-        url: 'https://www.buymeacoffee.com/realvjy',
-        type: 'other',
-        icon: '/bmc.png',
-        on: true
-    },
 ];
 
 export default webLinks;
