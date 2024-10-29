@@ -17,9 +17,9 @@ const webLinks = [
     },
     {
         title: 'telegram',
-        url: 'https://web.telegram.org/k/#@dextermorgenk',
+        url: 'https://t.me/Q194m',
         type: 'social',
-        icon: '/telegram-icon',
+        icon: '/telegram.svg',
         on: true
     },
     {
