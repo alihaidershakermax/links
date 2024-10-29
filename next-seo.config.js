@@ -14,11 +14,11 @@ export default {
                 url: `https://envs.sh/_2V.jpg`,
             },
         ],
-        site_name: 'realvjy',
+        site_name: 'ALI HAIDER',
     },
     twitter: {
-        handle: '@realvjy',
-        site: 'vjy.me',
+        handle: '@alihaiderdex',
+        site: 'https://alihaiderxcx.bio.link/',
         cardType: 'summary_large_image',
     },
 };
