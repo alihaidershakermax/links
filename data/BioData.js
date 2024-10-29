@@ -1,13 +1,13 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'ali haider shaker',
+        name: 'ALI HAIDER SHAKER',
         username: 'dexter',
-        url: 'https://alihaider-two.vercel.app/',
+        url: 'https://alihaidershaker.netlify.app/',
         titleImg: false,
         avatar: '/AQADcuYxG71mAAFJfQ.png',
         nftAvatar: true,
-        description: 'طالب هندسة نفط ',
+        description: 'طالب هندسة نفط,محب للتقنية والعالم السينمائي'',
         descShow: true,
         subdesc: 'Use this template and deploy on vercel for free',
         subdescShow: false,
