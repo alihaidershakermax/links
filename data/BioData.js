@@ -7,7 +7,7 @@ const bioData = [
         titleImg: false,
         avatar: '/AQADcuYxG71mAAFJfQ.png',
         nftAvatar: true,
-        description: 'طالب هندسة نفط,محب للتقنية والعالم السينمائي'',
+        description: 'طالب هندسة نفط,محب للتقنية والعالم السينمائي',
         descShow: true,
         subdesc: 'Use this template and deploy on vercel for free',
         subdescShow: false,
