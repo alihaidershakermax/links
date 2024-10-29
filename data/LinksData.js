@@ -2,15 +2,15 @@
 const webLinks = [
     // All social profile
     {
-        title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        title: 'X',
+        url: 'https://x.com/alihaiderdex',
         type: 'social',
-        icon: '/twitter.svg',
+        icon: '/X.svg',
         on: true
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://www.instagram.com/dxet1',
         type: 'social',
         icon: '/insta.svg',
         on: true
@@ -23,15 +23,15 @@ const webLinks = [
         on: true
     },
     {
-        title: 'Medium',
-        url: 'https://medium.com/@realvjy',
+        title: 'spotify',
+        url: 'https://open.spotify.com/user/petnkcqwh4z8hiool9qtyrvo6?si=a243e57c00fc4834',
         type: 'social',
-        icon: '/medium.svg',
-        on: false
+        icon: '/spotify.svg',
+        on: true
     },
     {
         title: 'Github',
-        url: 'https://github.com/realvjy',
+        url: 'https://github.com/AliHaiderShk',
         type: 'social',
         icon: '/github.svg',
         on: true
