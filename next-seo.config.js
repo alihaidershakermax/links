@@ -11,7 +11,7 @@ export default {
             {
                 width: 1200,
                 height: 630,
-                url: ``,
+                url: `https://github.com/alihaidershakermax/links/blob/main/public/6.jpg`,
             },
         ],
         site_name: 'ALI HAIDER',
