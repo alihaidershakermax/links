@@ -4,7 +4,7 @@ const bioData = [
         name: 'ALI HAIDER SHAKER',
         username: '',
         url: '',
-        titleImg: true,
+        titleImg: false,
         avatar: '/AQADcuYxG71mAAFJfQ.png',
         nftAvatar: true,
         description: 'طالب هندسة نفط,محب للتقنية والعالم السينمائي',
