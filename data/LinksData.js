@@ -44,11 +44,11 @@ const webLinks = [
         on:  true
     },
     {
-        title: 'Figma',
-        url: 'https://figma.com/@realvjy',
+        title: 'Trakt',
+        url: 'https://trakt.tv/users/dext1',
         type: 'social',
-        icon: '/figma.svg',
-        on: false
+        icon: '/Trakt.svg',
+        on: true
     },
     {
         title: 'Behance',
