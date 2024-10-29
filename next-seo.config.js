@@ -2,7 +2,7 @@ export default {
     openGraph: {
         type: 'website',
         locale: 'en_IE',
-        title: 'next lnks by realvjy',
+        title: 'biolinks by alihaider',
         url: 'https://vjy.me',
         description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk.',
         locale: 'en_EN',
@@ -11,7 +11,7 @@ export default {
             {
                 width: 1200,
                 height: 630,
-                url: `https://vjy.me/preview.jpg`,
+                url: `https://envs.sh/_2V.jpg`,
             },
         ],
         site_name: 'realvjy',
