@@ -38,10 +38,10 @@ const webLinks = [
     },
     {
         title: 'Youtube',
-        url: 'https://youtube.com/realvjy',
+        url: 'https://www.youtube.com/@daxterahkv',
         type: 'social',
         icon: '/youtube.svg',
-        on: false
+        on:  true
     },
     {
         title: 'Figma',
@@ -133,15 +133,15 @@ const webLinks = [
         url: 'https://github.com/realvjy/nxt-lnk',
         type: 'install',
         icon: '/github-fill.svg',
-        on: true
+        on: false
     },
 
     {
-        title: 'Buy Me a Coffee',
-        url: 'https://www.buymeacoffee.com/realvjy',
+        title: 'subsource',
+        url: 'https://subsource.net/u/2001694',
         type: 'other',
-        icon: '/bmc.png',
-        on: false
+        icon: '/subsource.png',
+        on: true
     },
 
     {
