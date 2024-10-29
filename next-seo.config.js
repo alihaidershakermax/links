@@ -4,9 +4,9 @@ export default {
         locale: 'en_IE',
         title: 'biolinks by alihaider',
         url: 'https://alihaiderxcx.bio.link/',
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk.',
+        description: '',
         locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
+        keywords: '',
         images: [
             {
                 width: 1200,
