@@ -2,9 +2,9 @@
 const bioData = [
     {
         name: 'ALI HAIDER SHAKER',
-        username: 'dexter',
-        url: 'https://alihaidershaker.netlify.app/',
-        titleImg: false,
+        username: '',
+        url: '',
+        titleImg: true,
         avatar: '/AQADcuYxG71mAAFJfQ.png',
         nftAvatar: true,
         description: 'طالب هندسة نفط,محب للتقنية والعالم السينمائي',
