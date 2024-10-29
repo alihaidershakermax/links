@@ -14,7 +14,7 @@ const bioData = [
         newProductUrl: 'https://3dicons.co',
         newProduct: false,
         author: 'ali haider',
-        authorURL: 'https://twitter.com/',
+        authorURL: 'https://twitter.com/alihaiderdex',
         footerText: 'made by'
     },
 ];
