@@ -149,7 +149,7 @@ const webLinks = [
         url: 'https://t.me/muhalnuaimi',
         type: 'other',
         icon: '/All About Cinema.png',
-        on: false
+        on: true
     },
 
     {
