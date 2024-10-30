@@ -153,11 +153,11 @@ const webLinks = [
     },
 
     {
-        title: 'maker website',
-        url: 'https://vjy.me',
+        title: 'play now',
+        url: '[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=petnkcqwh4z8hiool9qtyrvo6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=petnkcqwh4z8hiool9qtyrvo6&redirect=true)',
         type: 'other',
-        icon: '/vjy.png',
-        on: false
+        icon: '',
+        on: true
     },
 ];
 
