@@ -145,10 +145,10 @@ const webLinks = [
     },
 
     {
-        title: 'link demo',
-        url: 'https://vjy.me/lnk',
+        title: 'All About Cinema',
+        url: 'https://t.me/muhalnuaimi',
         type: 'other',
-        icon: '/vjy.png',
+        icon: '/All About Cinema.png',
         on: false
     },
 
@@ -157,7 +157,7 @@ const webLinks = [
         url: '[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=petnkcqwh4z8hiool9qtyrvo6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=petnkcqwh4z8hiool9qtyrvo6&redirect=true)',
         type: 'other',
         icon: '',
-        on: true
+        on: false
     },
 ];
 
