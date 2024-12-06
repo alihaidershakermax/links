@@ -20,7 +20,7 @@ const webLinks = [
         url: 'https://t.me/Q194m',
         type: 'social',
         icon: '/telegram.svg',
-        on: true
+        on: false
     },
     {
         title: 'spotify',
